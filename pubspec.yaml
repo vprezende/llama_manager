@@ -32,10 +32,6 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   #
-  assets:
-    - assets/models/qwen3-1.7b-q4_k_m.gguf
-    - assets/models/qwen3-4b-q4_k_m.gguf
-    - assets/models/llama-3.2-3b-instruct-q4_k_m.gguf
   # For details regarding assets in packages, see
   # https://flutter.dev/to/asset-from-package
   #
